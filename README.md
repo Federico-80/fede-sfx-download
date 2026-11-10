@@ -3,16 +3,19 @@
 Motion (SFX-100), tendicinture e bass shaker per i simulatori di guida, senza SimHub.
 Giochi: Le Mans Ultimate, Assetto Corsa, Assetto Corsa Rally, ACC, iRacing.
 
-## Scaricare
+## Installare
 
-Vai in **[Releases](../../releases/latest)** e scarica `Fede-SFX-<versione>.zip`.
+**[Scarica Fede-SFX-Setup.exe](https://github.com/Federico-80/fede-sfx-download/releases/latest/download/Fede-SFX-Setup.exe)** e aprilo.
 
-1. Estrai lo zip in una cartella tua (per esempio Documenti), **non** in Programmi.
-2. Avvia `Fede SFX.exe`.
-3. Alla prima apertura il programma mostra il **codice PC**: mandalo a Fede, ti risponde con il
-   **codice di sblocco** da incollare. Senza codice nessun dispositivo si accende.
+Si installa da solo (niente domande, niente permessi di amministratore), crea l'icona
+**Fede SFX** sul Desktop e nel menu Start e si apre.
+Se Windows mostra "PC protetto": *Ulteriori informazioni* → *Esegui comunque*.
 
-Gli aggiornamenti si installano dal programma stesso (avviso in alto quando ce n'è uno nuovo).
+Alla prima apertura il programma mostra il **codice PC**: mandalo a Fede, ti risponde con il
+**codice di sblocco** da incollare. Senza codice nessun dispositivo si accende.
+
+Gli aggiornamenti sono automatici: il programma li scarica e li installa da solo quando motion
+e cinture sono spenti. Per disinstallare: Impostazioni di Windows → App → App installate → Fede SFX.
 
 ## Sicurezza
 
